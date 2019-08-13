@@ -1,5 +1,3 @@
-# querySelectorAll
-
 # Element index
 
 HTMLElement DOM tree position as a proto function.
