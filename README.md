@@ -8,10 +8,10 @@ HTMLElement DOM tree position as a proto function.
 npm i element-index --save
 ```
 
-## Usage
+## Implementation
 
 ### HTML
-```
+```html
 <ul>
 	<li></li>
 	<li></li>
@@ -20,7 +20,7 @@ npm i element-index --save
 ```
 
 ### JS
-```
+```javascript
 import 'element-index';
 
 document.querySelector('.is-active').index(); // returns 2
