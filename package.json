@@ -1,6 +1,6 @@
 {
   "name": "element-index",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "HTMLElement index as a proto function",
   "main": "index.js",
   "repository": {
